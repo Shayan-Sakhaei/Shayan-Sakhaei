@@ -1,21 +1,21 @@
 <header>
   <h1 align="left">Hi 👋, I'm Shayan</h1>
-  <h3 align="left">A talented and dedicated Android Developer</h3>
+  <h3 align="left">A passionate Android Developer turning ideas into user-friendly mobile experiences.</h3>
 </header>
 
 ![](https://github.com/Shayan-Sakhaei/Shayan-Sakhaei/blob/main/Android_Developer_Challenge_2000_600.gif)
 
-- 👷🏻 I’m currently working on [ChandChand](https://github.com/Shayan-Sakhaei/ChandChand) and [Bajet](https://cafebazaar.ir/app/ir.stts.bjt).
+- 🧑🏻‍💻 I’m currently contributing to [Snapp! Box](https://cafebazaar.ir/app/com.snappbox.bikerapp) and [ChandChand](https://github.com/Shayan-Sakhaei/ChandChand).
 
-- 📚 I’m currently learning **about Data Structures & Algorithms, Design Patterns, and Test-Driven-Development.**
+- 📚 I’m diving deep into **Data Structures & Algorithms, Design Patterns, and Test-Driven Development** to enhance my problem-solving and software design expertise.
 
-- 🤝 I’m looking to collaborate on **Projects which their main aim is to make people living easier and pleasant.**
+- 🤝 I’m eager to work on **projects that simplify and brighten people’s lives**—let’s make something amazing together!
 
-- 👨‍🏫 I’m enthusiastic towards assisting **newcomers in the community.**
+- 🙌 I enjoy **helping newcomers in tech** by sharing resources, guiding them, and learning together. Feel free to reach out!
 
-- 💬 Ask me about **How to be a self-taught Android Developer.**
+- 💬 Ask me how I **became a self-taught Android Developer**—I’d love to share tips, resources, and lessons from my experience.
 
-- ⚡ Fun fact : **I know how to Make 3D Games in Unity!🕹️**
+- 🎮 I can **create 3D games in Unity**! Who says Android Developers can’t explore game development?
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://developer.android.com/static/images/logos/android.svg" alt="android" width="40" height="40"/> </a>
